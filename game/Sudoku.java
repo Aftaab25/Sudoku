@@ -1,3 +1,5 @@
+package game;
+
 class Sudoku{
 
     final static int SIZE = 9;
@@ -31,7 +33,7 @@ class Sudoku{
         // 4 - 4 % 3 = 1
         // row - row%3
 
-        
+
         int startRow = row - (row % 3);
         int startCol = col - (col % 3);
 
