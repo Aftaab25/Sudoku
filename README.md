@@ -1,2 +1,2 @@
-# game.Sudoku
-Terminal based game.Sudoku game in C using the concepts of Backtracking.
+# Sudoku
+### Terminal based Sudoku game in C and using the concepts of Backtracking.
